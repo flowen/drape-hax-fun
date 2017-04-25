@@ -1,0 +1,1 @@
+export const mp3Sources = ['/assets/clouds-chained-to-a-dead-camel-sample.mp3'];
